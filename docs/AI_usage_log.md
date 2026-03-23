@@ -28,8 +28,3 @@ like not and dont since they affect sentiment?"
 ## When I Beat AI
 - I identified review 13 as neutral which AI had labeled negative
 - I decided to keep negations which AI initially did not suggest
-```
-
-Commit message:
-```
-Add AI usage log
